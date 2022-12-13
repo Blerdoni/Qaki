@@ -1,0 +1,15 @@
+.main{
+    background-color: rgb(192, 18, 207);
+}
+.tittle h1{
+    background-color: black ;
+    color: red;
+    text-align: center;
+    font-size: 55px;
+    
+}
+.main2{
+    display: inline-block;
+    justify-content: space-between;
+    margin-left: 7px;
+}

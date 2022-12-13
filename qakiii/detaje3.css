@@ -1,0 +1,32 @@
+.main1{
+    text-align: center;
+    background-color: rgb(60, 54, 54);
+}
+.main1 h2{
+    font-size: 25px;
+    color: rgb(211, 22, 22);
+}
+.main2 h4{
+    font-size: medium;
+    color: rgb(173, 46, 46);
+    text-align: center;
+}
+.main{
+    background-color: rgb(253, 253, 253);
+}
+.img1 img{
+  width: 45%;
+  display: inline;
+  margin: 0px auto;
+  margin-left: 90px;
+}
+.table{
+    background-color: whitesmoke;
+    font-size: large;
+    width: 18%;
+    display: block ;
+    margin: 0px auto;
+    margin-top: -421px;
+    margin-left: 950px;
+    color: rgb(0, 0, 0);
+}
